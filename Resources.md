@@ -13,4 +13,4 @@
 |-------------|------|------|
 | List of movies in the public domain | [wikipedia.org](https://en.wikipedia.org/wiki/List_of_films_in_the_public_domain_in_the_United_States) | Manuel |
 | New more portable AI technique | [arxiv.org](https://arxiv.org/pdf/2404.19756) | Manuel |
-| Game programming patters | [gameprogrammingpatterns.com](http://gameprogrammingpatterns.com/) | Manuel
+| Game programming patterns | [gameprogrammingpatterns.com](http://gameprogrammingpatterns.com/) | Manuel
