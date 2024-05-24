@@ -5,7 +5,7 @@
 | Name | Tags | Description | Level | Hours | Link |
 |------|------|-------------|--------|-------|------|
 | Manuel | `state machine`, `lua` | Basic game state tracking **lecture** & **assignment** | ☆☆☆★★ | 10 | [harvard.edu](https://cs50.harvard.edu/games/2018/weeks/0/) |
-| Esteban | `state machine`, `npc`| Unity AI Tutorial: Finite State Machines  | ☆☆☆☆★ | 6 | [youtube.com]((https://www.youtube.com/watch?v=cwlFbLLR3qc&list=PLkBiJgxNbuOXBAN5aJnMVkQ9yRSB1UYrG&index=2) |
+| Esteban | `state machine`, `npc`| Unity AI Tutorial: Finite State Machines  | ☆☆☆☆★ | 6 | [youtube.com](https://www.youtube.com/watch?v=cwlFbLLR3qc&list=PLkBiJgxNbuOXBAN5aJnMVkQ9yRSB1UYrG&index=2) |
 | Esteban | `npc hearing`, `npc vision`| Hearing & vision sensors  | ☆☆☆☆★ | 7 | [youtube.com](https://www.youtube.com/watch?v=ku1sBjizDeI&list=PLkBiJgxNbuOXBAN5aJnMVkQ9yRSB1UYrG&index=3&t=4682s)|
 | Manuel | `state machine`, `lua` | Basic game state tracking **lecture** & **assignment** | ☆☆☆★★ | 10 | [harvard.edu](https://cs50.harvard.edu/games/2018/weeks/1/) |
 | Esteban | `animation setup`, `basic code`| Basic Movement Animation | ☆☆☆★★ | 4 | [youtube.com](https://www.youtube.com/watch?v=1IZlDI0Aun0&list=PLM2JG19oUhLOWhyRXsE3-SpUsigOdMPSp&index=10)|
