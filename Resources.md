@@ -5,7 +5,7 @@
 | Name | Tags | Description | Level | Hours | Link |
 |------|------|-------------|--------|-------|------|
 | Manuel | `state machine`, `lua` | Basic game state tracking **lecture** & **assignment** | ☆☆☆★★ | 10 | [harvard.edu](https://cs50.harvard.edu/games/2018/weeks/0/) |
-| Esteban | `unity`, `ai`, `npc`| Unity AI Tutorial: from basic states to behavior tree  | ☆☆☆☆★ | 38 | https://youtube.com/playlist?list=PLkBiJgxNbuOXBAN5aJnMVkQ9yRSB1UYrG&si=TWksxZA9lW8XS0Ok|
+| Esteban | `unity`, `ai`, `npc`| Unity AI Tutorial: from basic states to behavior tree  | ☆☆☆☆★ | 38 | [youtube.com](https://youtube.com/playlist?list=PLkBiJgxNbuOXBAN5aJnMVkQ9yRSB1UYrG&si=TWksxZA9lW8XS0Ok) |
 
 ### Miscellaneous
 
